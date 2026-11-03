@@ -21,25 +21,10 @@ Additionally, mathematical techniques are used to analyze the efficiency of vari
 
 ---
 
-## 📚 Topics & Implementation Index
 
-| Module / Topic | Focus Data Structure / Algorithm | Status | Code Link |
-| :--- | :--- | :---: | :---: |
-| **01. Linked Lists** | Singly, Doubly, & Circular Linked Lists | 🟢 Completed | [View Source](./src/01_linked_lists/) |
-| **02. Stacks & Queues** | ADT Implementation & Applications | 🟢 Completed | [View Source](./src/02_stacks_and_queues/) |
-| **03. Trees** | Binary Trees, BST, Traversal | 🟡 In Progress | [View Source](./src/03_trees/) |
-| **04. Graphs** | Graph Representation, BFS, DFS | ⚪ Pending | [View Source](./src/04_graphs/) |
-| **05. Performance Analysis** | Time/Space Complexity & Sorting Benchmarks | ⚪ Pending | [View Source](./src/05_algorithm_analysis/) |
 
 ---
 
-## 🛠️ How to Compile & Run
-
-To compile and run any of the C++ implementations locally, use GCC/G++:
-
-```bash
-# Navigate to the target module directory
-cd src/01_linked_lists
 
 # Compile the C++ program
 g++ -std=c++17 main.cpp -o program
